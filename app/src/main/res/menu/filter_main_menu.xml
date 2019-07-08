@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.test.MainActivity">
+
+    <item
+        android:id="@+id/action_filter_by_plate"
+        android:orderInCategory="1"
+        android:title="@string/action_filter_by_plate"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_filter_by_battery"
+        android:orderInCategory="2"
+        android:title="@string/action_filter_by_battery"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_sort_by_distance"
+        android:orderInCategory="3"
+        android:title="@string/action_sort_by_distance"
+        app:showAsAction="never"/>
+</menu>

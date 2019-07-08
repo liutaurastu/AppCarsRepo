@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Cars</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_filter_by_plate">Filter by Plate number</string>
+    <string name="action_filter_by_battery">Filter by remaining battery</string>
+    <string name="action_sort_by_distance">Sort by distance from user</string>
+
+    <string name="menu_map">Map</string>
+    <string name="menu_list">List</string>
+    <string name="menu_filter">Filter and sort</string>
+    <string name="title_activity_map">Map</string>
+    <string name="title_activity_list">List</string>
+    <string name="title_activity_filter">Filter and sort</string>
+
+    <string name="map_API"></string>
+</resources>
